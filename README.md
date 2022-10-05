@@ -1,8 +1,8 @@
 Une page existe pour afficher la météo, cette page affiche des données en dur,
-le but du test est de récupérer les données d'une l'API coté back et de les insérer dans la vue,
+le but du test est de récupérer les données d'une API coté back et de les insérer dans la vue,
 
 Ressource :
-1/ Utiliser l’API Json suivant :
+1/ Utiliser l’API JSON suivante :
 https://raw.githubusercontent.com/kang-fr/weather_api/main/last.json
 
 Règles pour la température :
@@ -11,7 +11,7 @@ Règles pour la température :
 - La température en gras est la température maximale sur le journée
 
 Règles pour le picto Soleil/Nuageux/Pluie :
-< 20 = Soleil
+< 20 = ensoleillé
 entre 20 et 50 = nuageux
 Plus de 50 = pluie
 
