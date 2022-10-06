@@ -1,5 +1,5 @@
 <div class="p-10">
-    <div class="p-10 border-solid border-2 border-gray-200">
+    <div class="bg-white shadow-md rounded p-10">
         <div>
             <div>
                 <span class="text-4xl text-gray-500">samedi</span>
