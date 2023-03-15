@@ -17,3 +17,5 @@ Plus de 50 = pluie
 
 Pour le jour en cours, afficher la valeur de l'heure en cours (temperature & pluie)
 Pour les jours suivant, pour le picto Soleil/Nuageux/Pluie prendre la moyenne sur la journée
+
+On va dire, pour l'exercice, que nous sommes le 06-10-2022.
