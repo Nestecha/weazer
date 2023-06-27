@@ -93,6 +93,8 @@
         </div>
 
         <br>
+        <hr>
+        <br>
 
         <div class="flex justify-between">
             <div class="flex justify-center flex-col items-center gap-y-3">
